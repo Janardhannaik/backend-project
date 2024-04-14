@@ -1,0 +1,14 @@
+{
+  "name": "backend-proffesional-setup",
+  "version": "1.0.0",
+  "description": "backend in janardhan naijk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"javacsript\""
+  ],
+  "author": "janardhan naik",
+  "license": "ISC"
+}
